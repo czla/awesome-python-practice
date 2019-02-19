@@ -1,4 +1,4 @@
-﻿# Python实战练习
+# Python实战练习
 ---------------------------------------
 
 ## [机器学习](https://github.com/czla/Python/tree/master/MachingLearning)
