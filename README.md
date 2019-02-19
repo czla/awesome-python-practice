@@ -1,9 +1,9 @@
 ﻿# Python实战练习
 ---------------------------------------
 
-## [机器学习](https://github.com/czla/Python/tree/master/MachingLearning/DecisionTree.ipynb)
+## [机器学习](https://github.com/czla/Python/tree/master/MachingLearning)
 * [逻辑回归](https://github.com/czla/Python/blob/master/MachingLearning/LogisticRegression/LogisticRegression.ipynb)
-* [决策树](https://github.com/czla/Python/tree/master/MachingLearning/DecisionTree)
+* [决策树](https://github.com/czla/Python/tree/master/MachingLearning/DecisionTree/DecisionTree.ipynb)
 * [模型评价](https://github.com/czla/Python/blob/master/MachingLearning/Evaluation/Evaluation.ipynb)
 
 ## [OpenCV](https://github.com/czla/Python/tree/master/OpenCV_Practice)
