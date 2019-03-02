@@ -1,10 +1,11 @@
-# Python实战练习
+﻿# Python实战练习
 ---------------------------------------
 
 ## [机器学习](https://github.com/czla/Python/tree/master/MachingLearning)
 * [逻辑回归](https://github.com/czla/Python/blob/master/MachingLearning/LogisticRegression/LogisticRegression.ipynb)
 * [决策树](https://github.com/czla/Python/tree/master/MachingLearning/DecisionTree/DecisionTree.ipynb)
 * [模型评价](https://github.com/czla/Python/blob/master/MachingLearning/Evaluation/Evaluation.ipynb)
+* [支持向量机](https://github.com/czla/Python/blob/master/MachingLearning/SVM/SVM.ipynb)  
 
 ## [OpenCV](https://github.com/czla/Python/tree/master/OpenCV_Practice)
 * [文件、摄像头和GUI](https://github.com/czla/Python/blob/master/OpenCV_Practice/chap2_file_camera_gui/chap2_file_camera_gui.ipynb)
