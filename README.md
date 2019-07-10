@@ -17,4 +17,4 @@
 * [树](https://github.com/czla/Python/tree/master/DataStructure/Tree)  
     - [二叉树及其遍历](https://github.com/czla/Python/blob/master/DataStructure/Tree/BinaryTree.ipynb)
 
-### PS: 项目会不定期更新，每周至少一次
+### PS: 不定期更新
